@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sukantdwivedi
 - 👀 I’m interested in doing coding and watching anime
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on some projects
 - 📫 [contact me on ](https://www.linkedin.com/in/sukant-dwivedi-42b029183/)
 
